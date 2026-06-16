@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Nguyen+Van+Hoan+%F0%9F%91%8B;Backend+Engineer+%7C+2+Years+Experience;Node.js+%7C+NestJS+%7C+Go+%7C+TypeScript;Blockchain+%7C+EVM+%7C+SUI+%7C+HEDERA;Building+scalable+%26+decentralized+systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+hoanjen+%F0%9F%91%8B;Backend+Engineer+%7C;Node.js+%7C+NestJS+%7C+Go+%7C+TypeScript;Blockchain+%7C+EVM+%7C+SUI+%7C+HEDERA;Building+scalable+%26+decentralized+systems!" alt="Typing SVG" />
 </div>
 
 <br/>
