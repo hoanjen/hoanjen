@@ -124,7 +124,7 @@ Focus:
   
 ## Education
 
-- B.E. Information Technology - Hanoi University of Industry (Aug 2021 - Jun 2025)
+- Information Technology - Hanoi University of Industry (Aug 2021 - Jun 2025)
 
 ---
 
