@@ -19,7 +19,6 @@
 Name:     Nguyen Van Hoan
 Role:     Backend Engineer
 Location: Hanoi, Vietnam
-Experience: 2 years
 Email:    hoannguyen1510.work@gmail.com
 
 Focus:
@@ -28,9 +27,8 @@ Focus:
   - Cloud-Native Infrastructure (AWS)
   - AI Agent Integration
 
-Currently:
-  - Working at: VAR META COMPANY
-  - Achievement: 2nd Place - Hedera Hello Future Apex Hackathon (DeFi & Tokenization)
+
+- Achievement: 2nd Place - Hedera Hello Future Apex Hackathon (DeFi & Tokenization)
 ```
 
 ---
@@ -44,8 +42,6 @@ Currently:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Backend
@@ -61,6 +57,8 @@ Currently:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Blockchain
@@ -122,6 +120,9 @@ Currently:
 ## Achievements
 
 - 2nd Place - Hedera Hello Future Apex Hackathon (DeFi & Tokenization) — Mar 2026
+  
+## Education
+
 - B.E. Information Technology - Hanoi University of Industry (Aug 2021 - Jun 2025)
 
 ---
